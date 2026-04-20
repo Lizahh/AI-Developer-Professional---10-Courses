@@ -1,1 +1,86 @@
+Module 1: Image Captioning with Generative AI
+A. Welcome to the Course
+•	IBM Product Spotlight: watsonx Orchestrate 
+•	Course Introduction 
+•	Course Syllabus and Prerequisites 
+•	Helpful Tips for Course Completion 
+•	Generative AI Models 
+•	Foundation Models 
+
+B. Captioning Photos with Generative AI
+•	Project Overview: Image Captioning with Generative AI 
+•	Hugging Face 
+•	BLIP from Hugging Face Transformers 
+•	Introduction to Gradio 
+•	Lab: Give Meaningful Names to Your Photos with Image Captioning AI 
+•	(Optional) Lab: Deploy your App with Code Engine 
+
+C. Summary and Assessment
+•	Module Summary: Image Captioning with Generative AI 
+•	Graded Quiz: Image Captioning with Generative AI 
+________________________________________
+Module 2: Create Your Own ChatGPT-like Website
+A. Chatbot with Open Source LLMs
+•	Project Overview: Create Your Own ChatGPT-like Website 
+•	Flask: A Gateway to Web Development in Python 
+•	Lab: Create Simple Chatbot with Open Source LLMs using Python and Hugging Face 
+•	Lab: Integrating Your Chatbot into a Web Application 
+
+B. Summary and Assessment
+•	Module Summary: Create Your Own ChatGPT-like Website 
+•	Module 2 Graded Quiz 
+________________________________________
+Module 3: Create a Voice Assistant
+•	Project Overview: Create a Voice Assistant 
+•	Introduction to Docker 
+•	IBM Watson Speech-to-Text and Text-to-Speech 
+•	Lab: Create a Voice Assistant with OpenAI GPT and IBM Watson 
+
+Summary and Assessment
+•	Module Summary: Create a Voice Assistant 
+•	Module 3 Graded Quiz 
+________________________________________
+Module 4: Generative AI-Powered Meeting Assistant
+•	Project Overview: Generative AI-Powered Meeting Assistant 
+•	IBM watsonx.ai 
+•	Introduction to Meta Llama 2 
+•	Introduction to OpenAI Whisper 
+•	Lab: Business AI Meeting Companion 
+
+Summary and Assessment
+•	Module Summary: Generative AI-Powered Meeting Assistant 
+•	Module 4 Graded Quiz 
+________________________________________
+Module 5: Summarize Your Private Data with Generative AI & RAG
+•	Project Overview: Summarize Your Private Data with Generative AI & RAG 
+•	Introduction to LangChain 
+•	Enhancing LLM Accuracy with RAG 
+•	Introduction to Llama 2 and RAG 
+•	Lab: Build a Chatbot for Your Data 
+
+Summary and Assessment
+•	Module Summary: Summarize Your Private Data with Generative AI 
+•	Module 5 Graded Quiz 
+________________________________________
+Module 6: Babel Fish (Universal Language Translator)
+•	Introduction to Project: Babel Fish with LLM and STT/TTS 
+•	Lab: Babel Fish (Language Translator) with LLM, STT, & TTS 
+
+Summary and Assessment
+•	Module Summary: Babel Fish with LLM and STT/TTS 
+•	Module 6 Graded Quiz 
+•	Glossary: Building GenAI-Powered Apps with Python 
+
+Course Wrap-Up
+•	What's Next: Explore watsonx Orchestrate 
+•	Congratulations and Next Steps 
+•	Thanks from the Course Team 
+________________________________________
+Module 7: Build an AI Career Coach
+•	Introduction to Project: Build an AI Career Coach 
+•	Lab: Personalized Job Application Coach using LLM 
+
+Summary and Assessment
+•	Module Summary: Build an AI Career Coach 
+•	Module 7 Practice Quiz 
 
