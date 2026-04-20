@@ -1,1 +1,155 @@
+Module 1: Python Basics
+A. About the Course
+•	Course Introduction 
+•	About this course 
+•	Exploring Python: Your First Steps into Programming 
+
+B. Getting Started with Jupyter and Python
+•	Introduction to Python 
+•	Introduction to Jupyter 
+•	Getting Started with Jupyter 
+•	Hands-on Lab: Write Your First Program 
+
+C. Types
+•	Types 
+•	Hands-on Lab: Types 
+•	Practice Quiz: Types 
+
+D. Expressions and Variables
+•	Hands-on Lab: Expression and Variables 
+•	Practice Quiz: Expressions and Variables 
+
+E. String Operations
+•	String Operations 
+•	(Optional) Format Strings in Python 
+•	Hands-On Lab: String Operations 
+•	Practice Quiz: String Operations 
+
+F. Summary and Assessment
+•	Module 1 Summary: Python Basics 
+•	Cheat Sheet: Python Basics 
+•	Module 1 Graded Quiz: Python Basics 
+•	Module 1 Glossary: Python Basics 
+________________________________________
+Module 2: Python Data Structures
+A. Lists and Tuples
+•	Lists and Tuples 
+•	Hands-On Lab: Lists 
+•	Hands-On Lab: Tuples 
+•	Cheat Sheet: Lists and Tuples 
+•	Practice Quiz: Lists and Tuples 
+
+B. Dictionaries
+•	Dictionaries 
+•	Hands-On Lab: Dictionaries 
+•	Practice Quiz: Dictionaries 
+
+C. Sets
+•	Sets 
+•	Hands-On Lab: Sets 
+•	Practice Quiz: Sets 
+
+D. Summary and Assessment
+•	Module 2 Summary: Python Data Structures 
+•	Cheat Sheet: Dictionaries & Sets 
+•	Module 2 Graded Quiz: Python Data Structures 
+•	Module 2 Glossary: Python Data Structures 
+________________________________________
+Module 3: Python Programming Fundamentals
+A. Conditions and Branching
+•	Conditions and Branching 
+•	Hands-On Lab: Conditions and Branching 
+•	Practice Quiz: Conditions and Branching 
+
+B. Loops
+•	Loops 
+•	Introduction to Loops in Python 
+•	Hands-On Lab: Loops 
+•	Practice Quiz: Loops 
+
+C. Functions
+•	Functions 
+•	Exploring Python Functions 
+•	Hands-On Lab: Functions 
+•	Practice Quiz: Functions 
+
+D. Exception Handling
+•	Exception Handling 
+•	Hands-On Lab: Exception Handling 
+•	Practice Quiz: Exception Handling 
+
+E. Objects and Classes
+•	Objects and Classes 
+•	Hands-On Lab: Objects and Classes 
+•	Practice Quiz: Objects and Classes 
+
+F. Practice
+•	Practice Lab: Text Analysis 
+
+G. Summary and Assessment
+•	Module 3 Summary: Python Programming Fundamentals 
+•	Cheat Sheet: Python Programming Fundamentals 
+•	Module 3 Graded Quiz: Python Programming Fundamentals 
+•	Module 3 Glossary: Python Programming Fundamentals 
+________________________________________
+Module 4: Working with Data in Python
+A. Reading and Writing Files
+•	Reading Files with Open 
+•	Hands-On Lab: Reading Files with Open 
+•	Writing Files with Open 
+•	Hands-On Lab: Writing Files with Open 
+•	Practice Quiz: Reading and Writing Files 
+
+B. Pandas
+•	Pandas: Loading Data 
+•	Pandas: Working with and Saving Data 
+•	Pandas 
+•	Practice Lab: Selecting Data in a DataFrame 
+•	Hands-on Lab: Loading Data with Pandas 
+•	Practice Quiz: Pandas 
+
+C. NumPy
+•	One Dimensional NumPy 
+•	Hands-On Lab: One Dimensional NumPy 
+•	Matrix Mathematics 
+•	Two Dimensional NumPy 
+•	Hands-On Lab: Two Dimensional NumPy 
+•	Beginner's Guide to NumPy 
+•	Practice Quiz: NumPy 
+
+D. Summary and Assessment
+•	Module 4 Summary: Working with Data in Python 
+•	Cheat Sheet: Working with Data in Python 
+•	Module 4 Graded Quiz: Working with Data in Python 
+•	Module 4 Glossary: Working with Data in Python 
+________________________________________
+Module 5: APIs and Data Collection
+A. Simple APIs
+•	Application Program Interface 
+•	Some Context on APIs 
+•	Hands-On Lab: Introduction to API 
+•	Practice Quiz: Simple APIs 
+
+B. REST APIs, Web Scraping, and Files
+•	REST APIs & HTTP Requests - Part 1 
+•	REST APIs & HTTP Requests - Part 2 
+•	Web Scraping and HTML Basics 
+•	Hands-on Lab: Access REST APIs & Request HTTP 
+•	Hands-On Lab: API Examples 
+•	(Optional) HTML for Web Scraping 
+•	(Optional) Web Scraping 
+•	Web Scraping - A Key Tool in Data Science 
+•	Web Scraping Tables using Pandas 
+•	Hands-on Lab: Web Scraping 
+•	Working with Different File Formats 
+•	Hands-on Lab: Working with Different File Formats 
+•	Practice Quiz: REST APIs, Web Scraping, and Working with Files 
+•	Practice Project: GDP Data Extraction and Processing 
+
+C. Summary and Assessment
+•	Module 5 Summary: APIs and Data Collection 
+•	Cheat Sheet: APIs and Data Collection 
+•	Module 5 Graded Quiz: APIs and Data Collection 
+•	Module 5 Glossary: APIs and Data Collection
+
 
