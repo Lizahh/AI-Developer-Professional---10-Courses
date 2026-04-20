@@ -1,1 +1,67 @@
 
+Module 1: Python Coding Practices and Packaging Concepts
+A. Welcome
+•	IBM Product Spotlight: IBM Bob 
+•	Introduction to the Course 
+•	Helpful Tips for Completing this Course 
+•	Prerequisites and Course Syllabus 
+
+B. Application Development and Packaging using Python
+•	Python with Flask for Large-Scale Projects 
+•	Application Development Lifecycle 
+•	Introduction to Web Applications and APIs 
+•	Demo: Working with an IDE 
+•	Hands-on Lab: Getting Started with IDE 
+•	Python Style Guide and Coding Practices 
+•	Static Code Analysis Resources 
+•	Hands-on Lab: Static Code Analysis 
+•	Unit Testing 
+•	Hands-on Lab: Practice Session and Assignment on Unit Testing 
+•	Packaging 
+•	Hands-on Lab: Practice Session and Assignment on Python Packaging 
+
+C. Summary and Assessment
+•	Module 1 Summary: Python Coding Practices and Packaging Concepts 
+•	Module 1 Practice Quiz 
+•	Module 1 Cheatsheet 
+•	Module 1 Graded Quiz 
+________________________________________
+Module 2: Web App Deployment using Flask
+•	Python Libraries and Frameworks for Application Development 
+•	Introduction to Flask 
+•	Deploying Web Apps using Flask 
+•	Decorators in Flask 
+•	Flask - Basic Applications and Routes 
+•	Hands-on Lab: Get Started with Flask Basics 
+•	Request and Response Objects – Using GET and POST Modes 
+•	Dynamic Routes 
+•	Error Handling 
+•	Hands-on Lab: Building an API with Flask (Routes, Error Handling, HTTP Requests) 
+•	Hands-on Lab: Building and Deploying a Web App using Flask 
+•	Additional Features in Flask 
+•	Hands-on Lab: Exploring Additional Features in Flask 
+
+Summary and Assessment
+•	Module 2 Lesson Summary: Web App Deployment using Flask 
+•	Module 2 Practice Quiz 
+•	Module 2 Cheatsheet 
+•	Module 2 Graded Quiz 
+________________________________________
+Module 3: Creating AI Applications and Deployment using Flask
+A. Projects
+•	Practice Project Overview 
+•	Practice Project: Sentiment Analysis 
+
+B. Final Project
+•	Final Project Overview 
+•	Final Project: Emotion Detector 
+•	Option 1: AI-Graded Submission and Evaluation 
+•	Option 2: Peer-Graded Submission and Evaluation 
+•	Review Your Peers 
+
+C. Summary and Wrap-Up
+•	Module 3 Summary: Creating AI Applications and Deployment using Flask 
+•	What's Next: Explore IBM Bob 
+•	Congratulations & Next Steps 
+•	Thanks from the Course Team 
+
