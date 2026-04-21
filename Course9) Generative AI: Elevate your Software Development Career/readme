@@ -1,1 +1,149 @@
+Module 1: Generative AI Basics for Software Development
+A. Welcome to the Course
+•	IBM Product Spotlight: IBM Bob (Reading) 
+•	Course Introduction (Video) 
+•	Course Overview (Reading) 
+•	Helpful Tips for Successful Course Completion (Ungraded Plugin) 
+
+B, Generative AI Basics for Software Development
+•	Introduction to Generative AI in Software Development (Video) 
+•	Leveraging Generative AI in Software Development Lifecycle (Video) 
+•	Expert Viewpoints: Gen AI in Software Development (Video) 
+•	Reading: Setting up the Software Development Environment for AI with VSCode, Copilot, and continue.dev (Ungraded Plugin) 
+•	Large Language Models (Video) 
+•	Natural Language Processing and Its Significance (Video) 
+•	Demo: Google AI Studio and Vertex AI (Video) 
+•	Reading: Essential Generative AI Tools for Software Development (Ungraded Plugin) 
+•	Reading: Tokens in Generative AI (Ungraded Plugin) 
+
+C. Labs & Hands-on
+•	Lab [Option A - JavaScript]: Creating a Chatbot Using OpenAI and JavaScript (Ungraded App Item) 
+•	Lab [Option B - Python]: Creating a Chatbot Using OpenAI and Python (Ungraded App Item) 
+•	Lab [Option C - Java]: Creating a Chatbot Using OpenAI and Java (Ungraded App Item) 
+•	Lab: Gemini Account Setup and API Key Generation (Ungraded Plugin) 
+•	Lab [Optional]: OpenAI Account Setup and API Key Generation (Ungraded Plugin) 
+•	Lab [Option A - JavaScript]: Prompt Engineering for Software Development (Ungraded App Item) 
+•	Lab [Option B - Python]: Prompt Engineering for Software Development (Ungraded App Item) 
+•	Lab [Option C - Java]: Prompt Engineering for Software Development (Ungraded App Item) 
+
+D. Concepts & Practice
+•	Generative AI Best Practices for Software Development (Dialogue) 
+•	Practice Quiz: Generative AI Basics for Software Development (Practice Assignment) 
+
+E. Module 1 Summary, Glossary and Assessment
+•	Summary and Highlights: Generative AI basics for Software Development (Ungraded Plugin) 
+•	Module 1 Glossary: Generative AI Basics for Software Development (Ungraded Plugin) 
+•	Graded Quiz: Generative AI Basics for Software Development 
+________________________________________
+Module 2: Generative AI for Software Architecture and Code Generation
+A. Generative AI for Architecture, Design and Prototyping
+•	Reading: Getting Started with IBM Generative AI Classroom (Ungraded Plugin) 
+•	Leveraging AI for Technical Help, Design Patterns, and Architecture (Video) 
+•	Expert Viewpoints: Gen AI for Technical Help and Software Architecture (Video) 
+•	Activity: Podcast: AI-First Architecture: Designing Systems for the GenAI Era (Ungraded Plugin) 
+•	Reading: Considerations for Software Development for Generative AI (Ungraded Plugin) 
+•	Demo: Generating Diagrams using Generative AI (Video) 
+•	Reading: Generating Architecture and Design Diagrams Using Generative AI (Ungraded Plugin) 
+•	Building a Static Website Using Generative AI (Video) 
+•	Demo: Building Web Prototypes Using Teleport HQ (Video) 
+•	Demo: Building Web Prototypes Using V0 by Vercel (Video) 
+•	Practice Quiz: Generative AI for Architecture, Design, and Prototyping (Practice Assignment) 
+
+B. AI for Coding, Prototyping and Troubleshooting
+•	Reading: AI for Coding and Development (Ungraded Plugin) 
+•	Demo: Coding with Claude Code (Video) 
+•	Lab [Option A - JavaScript]: Get a Solution to the Given Coding Problem (Ungraded App Item) 
+•	Lab [Option B - Python]: Get a Solution to the Given Coding Problem (Ungraded App Item) 
+•	Lab [Option C - Java]: Get a Solution to the Given Coding Problem (Ungraded App Item) 
+•	Demo: GitHub Copilot for Code Generation and Troubleshooting (Video) 
+•	Lab: Generate a Database Design Using Generative AI (Ungraded App Item) 
+•	Reading: Managing Legacy Code with Gen AI (Ungraded Plugin) 
+•	Practice Quiz: AI for Coding, Prototyping, and Troubleshooting (Practice Assignment) 
+
+Module 2 Summary, Glossary, Cheatsheet and Assessment
+•	Summary and Highlights: Generative AI for Software Architecture and Code Generation (Ungraded Plugin) 
+•	Module 2 Glossary: Generative AI for Software Architecture and Code Generation (Ungraded Plugin) 
+•	Reading: Cheat Sheet: Generative AI for Software Architecture and Code Generation (Ungraded Plugin) 
+•	Reading: Useful Prompts for Software Design and Development (Ungraded Plugin) 
+•	Graded Quiz: Generative AI for Software Architecture and Code Generation 
+________________________________________
+Module 3: Generative AI for Software Development Workflows and its Considerations
+A. Generative AI for DevSecOps and Testing
+•	Introduction to CI/CD Using AI (Video) 
+•	Expert Viewpoints: Gen AI for CI/CD Tools (Video) 
+•	Lab [Option A - JavaScript]: Optimize Dockerfiles with Gen AI (Ungraded App Item) 
+•	Lab [Option B - Python]: Optimize Dockerfiles with Gen AI (Ungraded App Item) 
+•	Lab [Option C - Java]: Optimize Dockerfiles with Gen AI (Ungraded App Item) 
+•	Demo: Review Code with Qodo (Video) 
+•	Lab [Option A - JavaScript]: Review Code Using Generative AI (Ungraded App Item) 
+•	Lab [Option B - Python]: Review Code Using Generative AI (Ungraded App Item) 
+•	Lab [Option C - Java]: Review Code Using Generative AI (Ungraded App Item) 
+•	Generative AI for Software Testing (Video) 
+•	Lab: Generate Test Cases for Specific Use Cases using Generative AI (Ungraded App Item) 
+•	Generative AI Concepts for Security in Software (Video) 
+•	Popular Generative AI Tools for Security in Software Development (Video) 
+•	Integration of Generative AI into Software Development Workflows (Video) 
+•	Lab [Option A - JavaScript]: Software Documentation Using Generative AI (Ungraded App Item) 
+•	Lab [Option B - Python]: Software Documentation Using Generative AI (Ungraded App Item) 
+•	Lab [Option C - Java]: Software Documentation Using Generative AI (Ungraded App Item) 
+•	Lab: Code Translation with Generative AI (Ungraded App Item) 
+•	Practice Quiz: Generative AI for DevSecOps and Testing (Practice Assignment) 
+
+B. Generative AI Ethical Considerations and Limitations
+•	Ethical Considerations for using Generative AI in Software Development (Video) 
+•	Reading: Recommended Practices for Responsible Generative AI Use (Ungraded Plugin) 
+•	Innovation with Generative AI in Software Development (Video) 
+•	Activity: Podcast: Do You Think Generative AI can Replace Human Effort? (Ungraded Plugin) 
+•	Practice Quiz: Generative AI Ethical Considerations and Limitations (Practice Assignment) 
+
+C. Module 3 Summary, Glossary, Cheatsheet and Assessment
+•	Podcast: Summary and Highlights: Generative AI for Software Development Workflows and Its Considerations (Ungraded Plugin) 
+•	Module 3 Glossary: Generative AI for Software Development Workflows and Its Considerations (Ungraded Plugin) 
+•	Reading: Cheat Sheet: Generative AI for Software Development Workflows and Its Considerations (Ungraded Plugin) 
+•	Graded Quiz: Generative AI for Software Development Workflows and Its Considerations 
+________________________________________
+Module 4: Agentic AI and Vibe Coding
+A. Building Blocks of Agentic AI
+•	What are AI Agents? (Video) 
+•	Types of AI Agents (Video) 
+•	Expert Viewpoints: Building Blocks of Agentic AI (Video) 
+•	Reading: Popular Agentic AI Frameworks (Ungraded Plugin) 
+•	Demo: Working with N8N (Video) 
+•	RAG Explained (Video) 
+•	What is Agentic RAG? (Video) 
+•	Summarize Private Documents Using RAG, LangChain, and LLMs (Ungraded App Item) 
+•	Practice Quiz: Building Blocks of Agentic AI (Practice Assignment) 
+
+B. Vibe Coding
+•	AI Systems versus Traditional Coding (Video) 
+•	Popular AI Coding Tools and Technologies (Video) 
+•	Expert Viewpoints: Vibe Coding (Video) 
+•	Demo: Working with Cursor (Video) 
+•	Reading: Introduction to Bolt (Ungraded Plugin) 
+•	Lab: Build a Full-Stack App with Bolt.new (Ungraded Plugin) 
+•	What is MCP? Integrate AI Agents with Databases and APIs (Video) 
+•	Reading: Best Practices for Vibe Coding (Ungraded Plugin) 
+•	Practice Quiz: Vibe Coding (Practice Assignment) 
+
+C. Module 4 Summary, Glossary and Assessment
+•	Summary and Highlights: Building Blocks of Agentic AI (Reading) 
+•	Module 4 Glossary: Agentic AI and Vibe Coding (Ungraded Plugin) 
+•	Graded Quiz: Agentic AI and Vibe Coding 
+________________________________________
+Module 5: Final Project
+•	Reading: Final Project Overview (Ungraded Plugin) 
+•	Final Project Part 1 [Option A - JavaScript]: CodeCraftHub: Building Personalized Learning for Developers (Ungraded App Item) 
+•	Final Project Part 1 [Option B - Python]: CodeCraftHub: Building Personalized Learning for Developers (Ungraded App Item) 
+•	Final Project Part 1 [Option C - Java]: CodeCraftHub: Building Personalized Learning for Developers (Ungraded App Item) 
+•	Final Project Part 2: Create a Learning Dashboard using Bolt (Ungraded App Item) 
+•	Access Bolt.diy (Ungraded App Item) 
+•	Final Project: Submission and Evaluation (Graded App Item) 
+
+Course Glossary, Cheatsheet and Final Exam
+•	Reading: Course Glossary (Ungraded Plugin) 
+•	Cheat Sheet: Top Generative AI Prompts for Software Developers (Ungraded Plugin) 
+•	Final Exam: Generative AI: Elevate Your Software Development Career (Graded Assignment) 
+
+
+
 
